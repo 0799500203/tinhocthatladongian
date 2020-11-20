@@ -1,1 +1,2 @@
-ggg:hello
+<?php
+echo 'Tin hoc that la don gian'
